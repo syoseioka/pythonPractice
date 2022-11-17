@@ -11,8 +11,8 @@ setuptools.setup(
     license='MIT',
     description="You can receive AWS Service Name.",
     long_description=long_description,
-    long_description_content_type="text/markdown",
-    url="https://github.com/cm-ichida/myawsname",
+    long_description_content_type="text/md",
+    url="https://github.com/",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
