@@ -1,2 +1,2 @@
-# pythonPractice
-due to practicing python
+# Function check
+due to practicing github function
